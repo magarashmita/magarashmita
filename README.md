@@ -57,10 +57,21 @@ I am a CSIT student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=magarashmita&theme=omni)](https://git.io/streak-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magarashmita&show_icons=true&theme=omni&locale=en" alt="ashmitathapa" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magarashmita&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img src="https://github.com/sandipsky/sandipsky/blob/output/github-contribution-grid-snake.svg"></p>
+
+---
+
+### 🏆 My Profile Trophies :
+<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<br>
+<p><img src="https://github-profile-trophy.vercel.app/?username=magarashmita&theme=omni&no-bg=true" /></p>
 
