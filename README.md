@@ -72,6 +72,6 @@ I am a CSIT student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ---
 
 ### 🏆 My Profile Trophies :
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<br>
+
 <p><img src="https://github-profile-trophy.vercel.app/?username=magarashmita&theme=omni&no-bg=true" /></p>
 
