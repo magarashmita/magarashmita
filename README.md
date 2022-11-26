@@ -49,7 +49,7 @@ I am a CSIT student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -61,17 +61,21 @@ I am a CSIT student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=magarashmita&theme=omni)](https://git.io/streak-stats)
+<div align="center">
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=magarashmita&theme=omni)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magarashmita&show_icons=true&theme=omni&locale=en" alt="ashmitathapa" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magarashmita&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img src="https://github.com/sandipsky/sandipsky/blob/output/github-contribution-grid-snake.svg"></p>
+</div>
+
 
 ---
 
 ### 🏆 My Profile Trophies :
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=magarashmita&theme=omni&no-bg=true" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=magarashmita&theme=omni&no-bg=true" /></p>
 
